@@ -1,4 +1,4 @@
-# meuprimeiroprojeto
+# Formação Flutter Specialist - Primeiro Projeto
 
 A new Flutter project.
 
